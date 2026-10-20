@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 916ca174c9f91bc47ab29cda8fbdcf0b, type: 3}
+  m_Name: Memory_pan
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryData
+  openingLine: This reminds me of...
+  lines:
+  - Mom made everything in this pan. Eggs, rice, the soup she always made when I
+    got sick.
+  - I could smell it from my room before I was even all the way awake.
+  - "She never measured anything. \u201CYou just know,\u201D she\u2019d say."
+  - "I tried to make her soup once. It didn\u2019t taste anything like hers."
+  - "The kitchen\u2019s been quiet for a while now."
+  - Nothing in this house smells like home anymore.

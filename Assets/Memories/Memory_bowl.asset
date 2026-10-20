@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 916ca174c9f91bc47ab29cda8fbdcf0b, type: 3}
+  m_Name: Memory_bowl
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryData
+  openingLine: This reminds me of...
+  lines:
+  - Oh Luna, she was here before I was even born.
+  - Every time I dropped food at dinner, she was already under the table waiting.
+  - "When she got too old for the stairs, I slept on the couch so she wouldn\u2019t
+    be alone."
+  - She still thumped her tail every time I said her name.
+  - "I don\u2019t think I ever filled this bowl without her watching me do it."
+  - It's been empty for such a long time now.
